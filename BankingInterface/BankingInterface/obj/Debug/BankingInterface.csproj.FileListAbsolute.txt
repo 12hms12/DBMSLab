@@ -1,0 +1,12 @@
+D:\220953224\BankingInterface\BankingInterface\bin\Debug\BankingInterface.exe.config
+D:\220953224\BankingInterface\BankingInterface\bin\Debug\BankingInterface.exe
+D:\220953224\BankingInterface\BankingInterface\bin\Debug\BankingInterface.pdb
+D:\220953224\BankingInterface\BankingInterface\obj\Debug\BankingInterface.Form1.resources
+D:\220953224\BankingInterface\BankingInterface\obj\Debug\BankingInterface.Properties.Resources.resources
+D:\220953224\BankingInterface\BankingInterface\obj\Debug\BankingInterface.csproj.GenerateResource.Cache
+D:\220953224\BankingInterface\BankingInterface\obj\Debug\BankingInterface.exe
+D:\220953224\BankingInterface\BankingInterface\obj\Debug\BankingInterface.pdb
+D:\220953224\BankingInterface\BankingInterface\obj\Debug\BankingInterface.csprojResolveAssemblyReference.cache
+D:\220953224\BankingInterface\BankingInterface\obj\Debug\BankingInterface.Form2.resources
+D:\220953224\BankingInterface\BankingInterface\obj\Debug\BankingInterface.Form3.resources
+D:\220953224\BankingInterface\BankingInterface\obj\Debug\BankingInterface.Form4.resources
